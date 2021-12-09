@@ -3,7 +3,7 @@
 ### Table of Contents
 
 1. [Project Motivation](#motivation)
-2. [Requirements] (#requirements)
+2. [Requirements](#requirements)
 4. [File descriptions](#files)
 5. [Results](#results)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
@@ -15,9 +15,9 @@ The project is divided in several subparts:
 
 Before the models are formed, the usual steps for data understanding and data cleaning are carried out.   
   
-In Part 1, I used unsupervised learning techniques — namely PCA and Clustering with KMeans — to describe the relationship between the demographics of the company's existing customers and the general population of Germany.This way, I identified groups of the general population that are more likely to be part of the mail-order company's main customer base  (and wich are not)  
+In **Part 1**, I used unsupervised learning techniques — namely PCA and Clustering with KMeans — to describe the relationship between the demographics of the company's existing customers and the general population of Germany.This way, I identified groups of the general population that are more likely to be part of the mail-order company's main customer base  (and wich are not)  
   
-In Part 2, a further dataset with demographic information for targets of a marketing campaign of the company is analysed. This dataset served as a training dataset for a supervised learning model in order to predict whether or not a given person is likely to become a customer.   
+In **Part 2**, a further dataset with demographic information for targets of a marketing campaign of the company is analysed. This dataset served as a training dataset for a supervised learning model in order to predict whether or not a given person is likely to become a customer.   
   
 ## Requirements <a name="requirements"></a>
 
