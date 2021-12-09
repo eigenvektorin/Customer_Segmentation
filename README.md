@@ -31,6 +31,10 @@ matplotlib==3.3.2
 
 ## File Descriptions
 
+ Arvato_Project_Workbook.ipynb - Jupyter notebook containing the whole project
+
 ## Results
 
 ## Acknowledgements
+
+I would like to thank Arvato Financial Solutions for the datasets/files and Udacity for the detailed instructions for conducting this project.
