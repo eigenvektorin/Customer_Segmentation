@@ -32,6 +32,8 @@ matplotlib==3.3.2
 ## File Descriptions
 
  Arvato_Project_Workbook.ipynb - Jupyter notebook containing the whole project
+ 
+Note that the datasets are not available here due to confidentiality.
 
 ## Results
 
