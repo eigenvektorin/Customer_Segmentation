@@ -15,7 +15,7 @@ The project is divided in several subparts:
 
 Before the models are formed, the usual steps for data understanding and data cleaning are carried out.   
   
-In **Part 1**, I used unsupervised learning techniques — namely PCA and Clustering with KMeans — to describe the relationship between the demographics of the company's existing customers and the general population of Germany.This way, I identified groups of the general population that are more likely to be part of the mail-order company's main customer base  (and wich are not)  
+In **Part 1**, I used unsupervised learning techniques — namely PCA and Clustering with KMeans — to describe the relationship between the demographics of the company's existing customers and the general population of Germany.This way, I identified groups of the general population that are more likely to be part of the mail-order company's main customer base  (and which are not)  
   
 In **Part 2**, a further dataset with demographic information for targets of a marketing campaign of the company is analysed. This dataset served as a training dataset for a supervised learning model in order to predict whether or not a given person is likely to become a customer.   
   
@@ -32,6 +32,8 @@ matplotlib==3.3.2
 ## File Descriptions
 
  Arvato_Project_Workbook.ipynb - Jupyter notebook containing the whole project
+ 
+Note that the datasets are not available here due to confidentiality.
 
 ## Results
 
