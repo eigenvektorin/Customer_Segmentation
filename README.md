@@ -36,6 +36,7 @@ matplotlib==3.3.2
 Note that the datasets are not available here due to confidentiality.
 
 ## Results
+The main findings of this project can be found at the post available [here](https://medium.com/@eigenvektorin/using-supervised-and-unsupervised-learning-to-find-potential-customers-for-arvato-financial-3cae454ad245).
 
 ## Acknowledgements
 
